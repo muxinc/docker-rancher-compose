@@ -4,7 +4,7 @@ FROM alpine:latest
 MAINTAINER Dominik Hahn <dominik@monostream.com>
 
 # Define rancher-compose version
-ENV RANCHER_COMPOSE_VERSION=v0.12.0
+ENV RANCHER_COMPOSE_VERSION=v0.12.1
 
 # Install dependencies and rancher-compose
 RUN apk add --quiet --no-cache openssl && \
