@@ -5,4 +5,4 @@
 [![Docker Stars](https://img.shields.io/docker/stars/monostream/rancher-compose.svg)](https://hub.docker.com/r/monostream/rancher-compose/ "Docker Hub")
 [![Docker Pulls](https://img.shields.io/docker/pulls/monostream/rancher-compose.svg)](https://hub.docker.com/r/monostream/rancher-compose/ "Docker Hub")
 
-A super small Docker image based on [Alpine Linux][alpine] which includes rancher-compose.
+A super small Docker image based on Alpine Linux which includes rancher-compose.

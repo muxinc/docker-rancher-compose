@@ -16,3 +16,6 @@ RUN apk add --quiet --no-cache ca-certificates && \
 
 # Set working directory
 WORKDIR /workspace
+
+# Set entrypoint
+ENTRYPOINT ["/bin/sh"]
